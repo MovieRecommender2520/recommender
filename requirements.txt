@@ -1,0 +1,8 @@
+flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.1
+joblib==1.4.2
+numpy==2.2.4
+pandas==2.2.3
+scikit-learn==1.6.1
+nltk==3.9.1
