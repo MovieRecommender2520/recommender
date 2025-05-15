@@ -1,9 +1,4 @@
-from flask import Flask, request, render_template, jsonify
-import pickle
-import joblib
-import os
-from dotenv import load_dotenv
-import requests
+from flask import Flask
 from routes import routes_bp
 
 app = Flask(__name__)
